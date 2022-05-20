@@ -4,3 +4,5 @@ terraform.tfstate
 .terraform.lock.hcl
 .terraform.lock.hcl
 .terraform.tfstate.lock.info
+.gitignore
+.git
